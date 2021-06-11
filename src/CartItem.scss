@@ -1,0 +1,15 @@
+.cart-item{
+    display:inline-flex;
+    margin:20px 10px;
+
+    .right-block{
+        padding: 0 20px;
+      }
+      .image{
+          height: 110px;
+    width : 110px;
+    border-radius: 4;
+    background-color: "#ccc";
+      }
+  }
+  
